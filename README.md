@@ -20,28 +20,6 @@ El objetivo es proporcionar una comprensión práctica de cómo funcionan estas 
 
 - **Java 8+**: Asegúrate de tener una versión compatible de Java instalada en tu máquina.
 
-## Instalación
-
-1. Clona el repositorio en tu máquina local:
-    ```bash
-    git clone https://github.com/tu-usuario/linear-structures-demo.git
-    ```
-
-2. Navega al directorio del proyecto:
-    ```bash
-    cd linear-structures-demo
-    ```
-
-3. Compila el proyecto:
-    ```bash
-    javac -d bin src/com/mycompany/linearStructure/*.java src/com/mycompany/main/Main.java
-    ```
-
-4. Ejecuta la aplicación:
-    ```bash
-    java -cp bin com.mycompany.main.Main
-    ```
-
 ## Uso
 
 Al ejecutar el programa, aparecerá un menú en la consola donde podrás elegir qué estructura de datos trabajar (Cola Simple, Cola con Prioridad, o Pila). 
